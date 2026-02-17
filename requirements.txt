@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+requests
+mido
+pretty_midi
+python-jose[cryptography]
+passlib[bcrypt]
